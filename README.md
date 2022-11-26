@@ -32,6 +32,7 @@ https://user-images.githubusercontent.com/114280483/204085994-bc26a049-d525-4a82
 + SQLite Database
 + RecyclerView
 + Intent
++ Spinner
 + OptionMenu
 + Permission - READ_EXTERNAL_STORAGE / INTERNET
 + Parcelize
